@@ -1,0 +1,401 @@
+{
+    "Word": {
+        "Meaning": "the form of a language that is spoken or written",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "term",
+            "expression",
+            "phrase"
+        ],
+        "Antonyms": [
+            "silence",
+            "muteness"
+        ],
+        "Similar words": [
+            "vocabulary",
+            "lexicon",
+            "jargon"
+        ]
+    },
+    "Love": {
+        "Meaning": "a strong feeling of affection",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "affection",
+            "adoration",
+            "passion"
+        ],
+        "Antonyms": [
+            "hatred",
+            "loathing"
+        ],
+        "Similar words": [
+            "fondness",
+            "devotion",
+            "infatuation"
+        ]
+    },
+    "Happy": {
+        "Meaning": "feeling or showing pleasure",
+        "Parts of Speech": "Adjective",
+        "Synonyms": [
+            "joyful",
+            "content",
+            "cheerful"
+        ],
+        "Antonyms": [
+            "sad",
+            "miserable"
+        ],
+        "Similar words": [
+            "delighted",
+            "elated",
+            "ecstatic"
+        ]
+    },
+    "Friend": {
+        "Meaning": "a person with whom one has a bond of mutual affection",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "companion",
+            "buddy",
+            "pal"
+        ],
+        "Antonyms": [
+            "enemy",
+            "foe"
+        ],
+        "Similar words": [
+            "confidant",
+            "mate",
+            "chum"
+        ]
+    },
+    "Work": {
+        "Meaning": "activity involving mental or physical effort",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "labor",
+            "job",
+            "task"
+        ],
+        "Antonyms": [
+            "leisure",
+            "relaxation"
+        ],
+        "Similar words": [
+            "employment",
+            "occupation",
+            "duty"
+        ]
+    },
+    "Beautiful": {
+        "Meaning": "pleasing the senses or mind aesthetically",
+        "Parts of Speech": "Adjective",
+        "Synonyms": [
+            "attractive",
+            "gorgeous",
+            "stunning"
+        ],
+        "Antonyms": [
+            "ugly",
+            "unattractive"
+        ],
+        "Similar words": [
+            "lovely",
+            "charming",
+            "exquisite"
+        ]
+    },
+    "Strong": {
+        "Meaning": "Physically endowed",
+        "Parts of Speech": "Adjective",
+        "Synonyms": [
+            "robust",
+            "sturdy",
+            "powerful"
+        ],
+        "Antonyms": [
+            "weak",
+            "feeble"
+        ],
+        "Similar words": "physically endowed",
+        "Antonym": "/search",
+        "Synonym": "/add"
+    },
+    "Sad": {
+        "Meaning": "feeling or showing sorrow",
+        "Parts of Speech": "Adjective",
+        "Synonyms": [
+            "unhappy",
+            "melancholy",
+            "gloomy"
+        ],
+        "Antonyms": [
+            "happy",
+            "joyful"
+        ],
+        "Similar words": [
+            "sorrowful",
+            "mournful",
+            "despondent"
+        ]
+    },
+    "Smart": {
+        "Meaning": "having the ability to learn or understand things quickly or easily",
+        "Parts of Speech": "Adjective",
+        "Synonyms": [
+            "intelligent",
+            "clever",
+            "bright"
+        ],
+        "Antonyms": [
+            "dull",
+            "stupid"
+        ],
+        "Similar words": [
+            "wise",
+            "sharp",
+            "astute"
+        ]
+    },
+    "Peace": {
+        "Meaning": "freedom from disturbance; tranquility",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "calm",
+            "serenity",
+            "harmony"
+        ],
+        "Antonyms": [
+            "conflict",
+            "turmoil",
+            "chaos"
+        ],
+        "Similar words": [
+            "quiet",
+            "stillness",
+            "contentment"
+        ]
+    },
+    "Courage": {
+        "Meaning": "the ability to do something that frightens one",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "bravery",
+            "fearlessness",
+            "valor"
+        ],
+        "Antonyms": [
+            "cowardice",
+            "timidity",
+            "fear"
+        ],
+        "Similar words": [
+            "daring",
+            "boldness",
+            "heroism"
+        ]
+    },
+    "Knowledge": {
+        "Meaning": "facts, information, and skills acquired through experience or education",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "wisdom",
+            "learning",
+            "expertise"
+        ],
+        "Antonyms": [
+            "ignorance",
+            "inexperience",
+            "naivety"
+        ],
+        "Similar words": [
+            "understanding",
+            "intelligence",
+            "awareness"
+        ]
+    },
+    "Hope": {
+        "Meaning": "a feeling of expectation and desire for a certain thing to happen",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "optimism",
+            "expectation",
+            "faith"
+        ],
+        "Antonyms": [
+            "despair",
+            "hopelessness",
+            "pessimism"
+        ],
+        "Similar words": [
+            "anticipation",
+            "confidence",
+            "aspiration"
+        ]
+    },
+    "Happiness": {
+        "Meaning": "the state of being happy",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "joy",
+            "bliss",
+            "contentment"
+        ],
+        "Antonyms": [
+            "sadness",
+            "unhappiness",
+            "misery"
+        ],
+        "Similar words": [
+            "pleasure",
+            "satisfaction",
+            "euphoria"
+        ]
+    },
+    "Health": {
+        "Meaning": "the state of being free from illness or injury",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "wellness",
+            "fitness",
+            "vitality"
+        ],
+        "Antonyms": [
+            "illness",
+            "disease",
+            "sickness"
+        ],
+        "Similar words": [
+            "well-being",
+            "wholeness",
+            "vigour"
+        ]
+    },
+    "Success": {
+        "Meaning": "the accomplishment of an aim or purpose",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "achievement",
+            "victory",
+            "triumph"
+        ],
+        "Antonyms": [
+            "failure",
+            "defeat",
+            "loss"
+        ],
+        "Similar words": [
+            "accomplishment",
+            "fulfillment",
+            "attainment"
+        ]
+    },
+    "Dream": {
+        "Meaning": "a series of thoughts, images, or emotions occurring during sleep",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "vision",
+            "fantasy",
+            "imagination"
+        ],
+        "Antonyms": [
+            "reality",
+            "truth",
+            "awake"
+        ],
+        "Similar words": [
+            "aspiration",
+            "desire",
+            "ambition"
+        ]
+    },
+    "Nature": {
+        "Meaning": "the phenomena of the physical world collectively",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "environment",
+            "surroundings",
+            "landscape"
+        ],
+        "Antonyms": [
+            "artificial",
+            "man-made",
+            "unnatural"
+        ],
+        "Similar words": [
+            "wildlife",
+            "ecology",
+            "scenery"
+        ]
+    },
+    "Kindness": {
+        "Meaning": "the quality of being friendly, generous, and considerate",
+        "Parts of Speech": "Noun",
+        "Synonyms": [
+            "compassion",
+            "benevolence",
+            "goodwill"
+        ],
+        "Antonyms": [
+            "cruelty",
+            "meanness",
+            "hostility"
+        ],
+        "Similar words": [
+            "generosity",
+            "charity",
+            "sympathy"
+        ]
+    },
+    "Mean": {
+        "Meaning": "dfads",
+        "Parts of Speech": "gase",
+        "Synonyms": "afag",
+        "Antonyms": "atsv",
+        "Similar words": "atgf"
+    },
+    "Quilt": {
+        "Meaning": "dfads",
+        "Parts of Speech": "gase",
+        "Synonyms": "afag",
+        "Antonyms": "atsv",
+        "Similar words": "atgf"
+    },
+    "Testis": {
+        "Meaning": "dfads",
+        "Parts of Speech": "gase",
+        "Synonyms": "afag",
+        "Antonyms": "atsv",
+        "Similar words": "atgf"
+    },
+    "Fish": {
+        "Meaning": "animal in water",
+        "Parts of Speech": "noun",
+        "Synonyms": "aquatic animal",
+        "Antonyms": " dog",
+        "Similar words": " shark tuna tilapia"
+    },
+    "Book": {
+        "Meaning": " book",
+        "Parts of Speech": "book",
+        "Synonyms": "book",
+        "Antonyms": "book",
+        "Similar words": "book"
+    },
+    "Akowuah": {
+        "Meaning": "Best lecturer in KNUST",
+        "Parts of Speech": "Noun",
+        "Synonyms": "Second to none in KNUST",
+        "Antonyms": "Bare Minimum",
+        "Similar words": "Know your worth!"
+    },
+    "Cake": {
+        "Meaning": "food",
+        "Parts of Speech": " sweet",
+        "Synonyms": " hugs",
+        "Antonyms": "?/&:$",
+        "Similar words": "wfe,sfd"
+    }
+}
